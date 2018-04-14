@@ -1,0 +1,10 @@
+/* hello.css */
+
+.root {
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+    line-height: 40px;
+    color: #fff;
+    border: 3px solid red;
+}
